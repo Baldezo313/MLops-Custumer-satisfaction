@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7cbe6f6dd9be49f9bb8f5a5645658a41/artifacts
+end_time: 1730720561847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cbe6f6dd9be49f9bb8f5a5645658a41
+run_name: powerful-foal-352
+run_uuid: 7cbe6f6dd9be49f9bb8f5a5645658a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730720559471
+status: 3
+tags: []
+user_id: balde

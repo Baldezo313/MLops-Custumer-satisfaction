@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5eab47c499874c468149a1f793d88767/artifacts
+end_time: 1730720547921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eab47c499874c468149a1f793d88767
+run_name: redolent-fowl-622
+run_uuid: 5eab47c499874c468149a1f793d88767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730720544785
+status: 4
+tags: []
+user_id: balde
