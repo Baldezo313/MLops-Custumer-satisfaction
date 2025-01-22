@@ -1,5 +1,6 @@
 # MLops-Custumer-satisfaction
-
+End to End Customer Satisfaction Pipeline with ZenML  
+The objective here is to predict the customer satisfaction score for a given order based on features like order status, price, payment, etc. I will be using [ZenML](https://zenml.io/) to build a production-ready pipeline to predict the customer satisfaction score for the next order or purchase.  
 #### Description of Features 
     This app is designed to predict the customer satisfaction score for a given customer. You can input the features of the product listed below and get the customer satisfaction score. 
     | Models        | Description   | 
